@@ -8,13 +8,13 @@ import ReactDOM from 'react-dom';
 // function() { or () => {
 
 const App = () => {
-  return <div>Hi There!</div>;
+    return <div>Hi There friends! </div>;
 };
 
 
 // Take the react component and show it on the screen
 
 ReactDOM.render(
-  <App />,
-  document.querySelector('#root')
+    <App />,
+    document.querySelector('#root')
 );
