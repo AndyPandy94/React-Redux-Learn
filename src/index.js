@@ -8,7 +8,7 @@ import ReactDOM from 'react-dom';
 // function() { or () => {
 
 const App = () => {
-    return <div>Hi There friends! </div>;
+    return <div>Hi There my friends! </div>;
 };
 
 
